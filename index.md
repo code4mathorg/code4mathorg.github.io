@@ -10,7 +10,7 @@ sociotechnical infrastructure: software, databases, communities, and more.
 
 <p class="notice">
   <strong>Get involved!</strong> The best way to engage with our
-  community is to join our
+  <a href="/community/">community</a> is to join our
   <a href="https://code4math.zulipchat.com">Zulip chat</a>.
   We look forward to connecting with you!
 </p>
