@@ -3,7 +3,7 @@ layout: default
 title: Community
 ---
 
-Any mathematics software developer or advocate who believe in
+Any mathematics software developer or advocate who believes in
 [our consortium's principles](/#our-principles) is warmly invited
 to participate in our community.
 
