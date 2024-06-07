@@ -26,7 +26,7 @@ sociotechnical infrastructure: software, databases, communities, and more.
 - Our community is open to everyone. We promote, encourage, and improve diversity in our ecosystem by maintaining an inclusive environment that treats all members equitably.
 
 
-## Steering Committee</h2>
+## Steering Committee
 
 - Katja Bercic
 - Steven Clontz
