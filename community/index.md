@@ -11,3 +11,5 @@ New community members are encouraged to join our
 [Zulip chat](https://code4math.zulipchat.com/) and say hello! You can also keep
 an eye on our [events](/events/) for opportunities to sync up
 with other community members.
+
+![AIM workshop photo](/community/photo.png)
