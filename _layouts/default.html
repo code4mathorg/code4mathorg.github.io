@@ -39,13 +39,13 @@
     <header>
       <nav>
   
-  <a href="/" class="current">Home</a>
+  <a href="/" {% if page.url = "/" %}class="current"{% endif %}>Home</a>
   
-  <a href="/community/">Community</a>
+  <a href="/community/" {% if page.url = "/community/" %}class="current"{% endif %}>Community</a>
   
-  <a href="/events/">Events</a>
+  <a href="/events/" {% if page.url = "/events/" %}class="current"{% endif %}>Events</a>
   
-  <a href="/projects/">Projects</a>
+  <a href="/projects/" {% if page.url = "/projects/" %}class="current"{% endif %}>Projects</a>
   
   <a href="https://github.com/{{site.github}}">GitHub</a>
   
