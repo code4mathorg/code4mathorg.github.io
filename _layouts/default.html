@@ -38,18 +38,34 @@
 
     <header>
       <nav>
+
+        {% if page.url == "/" %}
+            <a href="/" class="current">Home</a>
+        {% else %}
+            <a href="/">Home</a>
+        {% endif %}
+
+        {% if page.url == "/community/" %}
+            <a href="/community/" class="current">Community</a>
+        {% else %}
+            <a href="/community/">Community</a>
+        {% endif %}
+
+        {% if page.url == "/events/" %}
+            <a href="/events/" class="current">Events</a>
+        {% else %}
+            <a href="/events/">Events</a>
+        {% endif %}
+
+        {% if page.url == "/projects/" %}
+            <a href="/projects/" class="current">Projects</a>
+        {% else %}
+            <a href="/projects/">Projects</a>
+        {% endif %}
   
-  <a href="/" {% if page.url = "/" %}class="current"{% endif %}>Home</a>
-  
-  <a href="/community/" {% if page.url = "/community/" %}class="current"{% endif %}>Community</a>
-  
-  <a href="/events/" {% if page.url = "/events/" %}class="current"{% endif %}>Events</a>
-  
-  <a href="/projects/" {% if page.url = "/projects/" %}class="current"{% endif %}>Projects</a>
-  
-  <a href="https://github.com/{{site.github}}">GitHub</a>
-  
-  <a href="https://{{site.zulip}}.zulipchat.com">Zulip</a>
+        <a href="https://github.com/{{site.github}}">GitHub</a>
+        
+        <a href="https://{{site.zulip}}.zulipchat.com">Zulip</a>
   
       </nav>
 
