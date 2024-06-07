@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+`code4math` is a professional organization dedicated
+to the advancement of
+mathematical research through the development of high-quality
+sociotechnical infrastructure: software, databases, communities, and more.
+
+
+<p class="notice">
+  <strong>Get involved!</strong> The best way to engage with our
+  community is to join our
+  <a href="https://code4math.zulipchat.com">Zulip chat</a>.
+  We look forward to connecting with you!
+</p>
+
+
+## Our principles
+
+- We are a community of mathematics software developers and their advocates, dedicated to the advancement and accessibility of mathematics.- We create, develop, and maintain digital products for mathematics researchers, educators, and learners. These products include software, datasets, documentation, and infrastructure.
+- Our community empowers this work by sharing knowledge and best practices.
+- We recognize and value this work as scholarly activity, and provide artifacts of these efforts recognized by both academic and industry stakeholders.
+- We ensure our products are accessible to everyone who needs them.
+- We provide opportunities for professional development at all career stages and particularly welcome and support new contributors.
+- Our community is open to everyone. We promote, encourage, and improve diversity in our ecosystem by maintaining an inclusive environment that treats all members equitably.
+
+
+## Steering Committee</h2>
+
+- Katja Bercic
+- Steven Clontz
+- James Dabbs
+- David Lowry-Duda
+- Christelle Vincent
+
+
+## Acknowlegements
+
+`code4math` was founded as an outcome of the
+American Institute of Mathematics' 2023 December workshop on
+[Open-source cyberinfrastructure supporting mathematics research](https://aimath.org/pastworkshops/cyberinfrastructure.html).

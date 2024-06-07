@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{site.title}}</title>
+<meta name="description" content="{{site.description}}" />
+<link rel="stylesheet" href="/simple.min.css">
+<style>
+  :root {--accent-bg: #f7fff5; --accent: #47a10d}
+  @media (prefers-color-scheme: dark) { :root {--accent-bg: #122f30; --accent: #47aaad} }
+</style>
+
+<link rel="icon" href="/favicon.png" />
+<link rel="apple-touch-icon" href="/favicon.png">
+
+ <!-- Facebook integration -->
+<meta property="og:title" content="{{site.title}}"/>
+<meta property="og:image" content="{{site.logo}}"/>
+<meta property="og:url" content="{{site.url}}"/>
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{site.title}}"/>
+<meta property="og:description" content="{{site.description}}"/>
+
+<!-- Twitter integration -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{site.title}}" />
+<meta name="twitter:image" content="{{site.logo}}" />
+<meta name="twitter:url" content="{{site.url}}" />
+<meta name="twitter:description" content="{{site.description}}" />
+
+<link rel="canonical" href="{{site.url}}">
+
+  </head>
+  <body>
+
+    <header>
+      <nav>
+  
+  <a href="/" class="current">Home</a>
+  
+  <a href="/events/">Events</a>
+  
+  <a href="/projects/">Projects</a>
+  
+  <a href="https://github.com/{{site.github}}">GitHub</a>
+  
+  <a href="https://{{site.zulip}}.zulipchat.com">Zulip</a>
+  
+      </nav>
+
+      <img style="border-radius:0" alt="code4math logo" src="{{site.logo}}">
+      <p>Consortium of Digital Ecosystems for Mathematics</p>
+    </header>
+
+    <main>
+
+        {{ content }}
+
+    </main>
+
+    <footer>
+      <p>
+The content of this site is licensed under
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+      </p>
+    </footer>
+
+  </body>
+</html>
