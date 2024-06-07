@@ -17,21 +17,21 @@
 <link rel="apple-touch-icon" href="/favicon.png">
 
  <!-- Facebook integration -->
-<meta property="og:title" content="{{site.title}}"/>
+<meta property="og:title" content="{%if page.title %}{{page.title}} | {% endif %}{{site.title}}"/>
 <meta property="og:image" content="{{site.logo}}"/>
-<meta property="og:url" content="{{site.url}}"/>
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="{{site.title}}"/>
+<meta property="og:url" content="{{site.url}}{{page.url}}"/>
 <meta property="og:description" content="{{site.description}}"/>
+<meta property="og:site_name" content="{{site.title}}"/>
+<meta property="og:type" content="article">
 
 <!-- Twitter integration -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{site.title}}" />
+<meta name="twitter:title" content="{%if page.title %}{{page.title}} | {% endif %}{{site.title}}" />
 <meta name="twitter:image" content="{{site.logo}}" />
-<meta name="twitter:url" content="{{site.url}}" />
+<meta name="twitter:url" content="{{site.url}}{{page.url}}" />
 <meta name="twitter:description" content="{{site.description}}" />
+<meta name="twitter:card" content="summary_large_image">
 
-<link rel="canonical" href="{{site.url}}">
+<link rel="canonical" href="{{site.url}}{{page.url}}">
 
   </head>
   <body>
@@ -40,6 +40,8 @@
       <nav>
   
   <a href="/" class="current">Home</a>
+  
+  <a href="/community/">Community</a>
   
   <a href="/events/">Events</a>
   
@@ -53,6 +55,8 @@
 
       <img style="border-radius:0" alt="code4math logo" src="{{site.logo}}">
       <p>Consortium of Digital Ecosystems for Mathematics</p>
+
+      {%if page.title %}<h3>{{page.title}}</h3>{% endif %}
     </header>
 
     <main>
