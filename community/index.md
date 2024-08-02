@@ -13,3 +13,18 @@ an eye on our [events](/events/) for opportunities to sync up
 with other community members.
 
 ![AIM workshop photo](/community/photo.png)
+
+---
+
+All members of `code4math` are encouraged to add their name to our directory
+below by making an [Issue](https://github.com/code4mathorg/code4mathorg.github.io/issues)
+with their information or directly opening a pull request directly
+[editing this page](https://github.com/code4mathorg/code4mathorg.github.io/blob/main/community/index.md).
+
+- Steven Clontz
+    - University of South Alabama
+    - [@StevenClontz](https://github.com/StevenClontz)
+    - <sclontz@southalabama.edu>
+    - <https://clontz.org>, <https://topology.pi-base.org>, <https://g4m.code4math.org>
+    - Databases, formalized math, general topology, math research sociotechincal infrastructure
+      math education sociotechincal infrastructure
