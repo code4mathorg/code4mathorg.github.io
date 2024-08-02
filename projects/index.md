@@ -16,3 +16,5 @@ or directly add a link to your project to
     - Database of mathematical databases
 - [π-Base, a community database of topological counterexamples](https://topology.pi-base.org/)
     - Database of topological spaces, properties, and theorems, with automatic deduction
+- [The L-functions and modular forms database (LMFDB)](https://www.lmfdb.org/)
+    - Database of mathematical objects arising in number theory and arithmetic geometry relating to the Langlands program
