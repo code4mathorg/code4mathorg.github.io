@@ -17,7 +17,8 @@ with other community members.
 ---
 
 All members of `code4math` are encouraged to add their name to our directory
-below by making an [Issue](https://github.com/code4mathorg/code4mathorg.github.io/issues)
+below by
+[opening an Issue](https://github.com/code4mathorg/code4mathorg.github.io/issues/new?template=community-directory.md)
 with their information or directly opening a pull request directly
 [editing this page](https://github.com/code4mathorg/code4mathorg.github.io/blob/main/community/index.md).
 

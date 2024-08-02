@@ -6,7 +6,7 @@ title: Projects
 Following is an (incomplete!) list of all the projects our community
 is engaged with. If you are a community member working on digital infrastructure
 for advancing mathematics research, please
-[open an Issue](https://github.com/code4mathorg/code4mathorg.github.io/issues)
+[open an Issue](https://github.com/code4mathorg/code4mathorg.github.io/issues/new?template=project-request.md)
 or directly add a link to your project to
 [this page on GitHub](https://github.com/code4mathorg/code4mathorg.github.io/blob/main/projects/index.md).
 
