@@ -1,7 +1,7 @@
 ---
-name: Add [NAME] to Projects page
+name: Projects page request
 about: Request to add your project to the `code4math` Projects page.
-title: project-request
+title: Add NAME to Projects page
 labels: projects
 assignees: ''
 
