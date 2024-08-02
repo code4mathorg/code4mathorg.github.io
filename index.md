@@ -35,6 +35,8 @@ sociotechnical infrastructure: software, databases, communities, and more.
 - David Lowry-Duda
 - Christelle Vincent
 
+Send inquiries to the committee via <code4math@clontz.org>, or even better,
+@ us on [Zulip](https://code4math.zulipchat.com)!
 
 ## Acknowlegements
 
