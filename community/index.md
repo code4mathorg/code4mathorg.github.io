@@ -30,3 +30,10 @@ with their information or directly opening a pull request directly
     - <https://clontz.org>, <https://topology.pi-base.org>, <https://g4m.code4math.org>
     - Databases, formalized math, general topology, math research sociotechincal infrastructure
       math education sociotechincal infrastructure
+
+- Valeria de Paiva
+    - Topos Institute, Berkeley
+    - [@vcvpaiva](https://github.com/vcvpaiva)
+    - <valeria@topos.institute>
+    - NLP for math, formalized math, category theoryy, math research sociotechincal infrastructure
+     
