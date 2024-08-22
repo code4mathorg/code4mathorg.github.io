@@ -35,5 +35,7 @@ with their information or directly opening a pull request directly
     - Topos Institute, Berkeley
     - [@vcvpaiva](https://github.com/vcvpaiva)
     - <valeria@topos.institute>
-    - NLP for math, formalized math, category theoryy, math research sociotechincal infrastructure
+    - MathGloss <https://mathgloss.github.io/MathGloss/database>
+    - Parmesan <http://www.jacobcollard.com/parmesan2/>
+    - NLP for math, formalized math, category theory, math research sociotechnical infrastructure
      
