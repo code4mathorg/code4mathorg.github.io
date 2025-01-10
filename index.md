@@ -2,8 +2,9 @@
 layout: default
 ---
 
-`code4math` is a professional organization dedicated
-to the advancement of
+`code4math` is an
+[AIM Research Community](https://aimath.org/programs/researchcommunities/)
+dedicated to the advancement of
 mathematical research through the development of high-quality
 sociotechnical infrastructure: software, databases, communities, and more.
 
