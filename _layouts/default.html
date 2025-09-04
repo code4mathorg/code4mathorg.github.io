@@ -44,24 +44,11 @@
         {% else %}
             <a href="/">Home</a>
         {% endif %}
-
-        {% if page.url == "/community/" %}
-            <a href="/community/" class="current">Community</a>
-        {% else %}
-            <a href="/community/">Community</a>
-        {% endif %}
-
-        {% if page.url == "/events/" %}
-            <a href="/events/" class="current">Events</a>
-        {% else %}
-            <a href="/events/">Events</a>
-        {% endif %}
-
-        {% if page.url == "/projects/" %}
-            <a href="/projects/" class="current">Projects</a>
-        {% else %}
-            <a href="/projects/">Projects</a>
-        {% endif %}
+  
+        <a href="https://preview.scholarlattice.org/collections/1a78ebbd-d21b-40ea-9ba7-79a1cefa8c1e">
+          Events (ScholarLattice)
+          {% include external-link.html %}
+        </a>
   
         <a href="{{site.github_url}}">
           GitHub
