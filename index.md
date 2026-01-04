@@ -10,8 +10,16 @@ sociotechnical infrastructure: software, databases, communities, and more.
 
 
 <p class="notice">
+  <strong><code>code4math</code> @ #JMM2026</strong>
+  Visit our
+  <a href="https://code4math.zulipchat.com/#narrow/channel/416460-general/topic/code4math.20.40.20JMM.202026/with/566219616">Zulip chat</a>
+  to connect with the community at
+  <a href="https://jointmathematicsmeetings.org/jmm">the 2026 Joint Mathematics Meetings</a>!
+</p>
+
+<p class="notice">
   <strong>Get involved!</strong> The best way to engage with our
-  <a href="/community/">community</a> is to join our
+  community is to join our
   <a href="https://code4math.zulipchat.com">Zulip chat</a>.
   We look forward to connecting with you!
 </p>
@@ -44,3 +52,4 @@ Send inquiries to the committee via <code4math@clontz.org>, or even better,
 `code4math` was founded as an outcome of the
 American Institute of Mathematics' 2023 December workshop on
 [Open-source cyberinfrastructure supporting mathematics research](https://aimath.org/pastworkshops/cyberinfrastructure.html).
+
