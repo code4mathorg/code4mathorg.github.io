@@ -45,10 +45,15 @@
             <a href="/">Home</a>
         {% endif %}
   
-        <a href="https://preview.scholarlattice.org/collections/1a78ebbd-d21b-40ea-9ba7-79a1cefa8c1e">
-          Events (ScholarLattice)
-          {% include external-link.html %}
-        </a>
+        {% if page.url == "/" %}
+            <a href="/events/" class="current">
+              Events
+            </a>
+        {% else %}
+            <a href="/events/">
+              Events
+            </a>
+        {% endif %}
   
         <a href="{{site.github_url}}">
           GitHub
