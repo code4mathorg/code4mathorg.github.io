@@ -10,11 +10,8 @@ sociotechnical infrastructure: software, databases, communities, and more.
 
 
 <p class="notice">
-  <strong><code>code4math</code> @ #JMM2026</strong>
-  Visit our
-  <a href="https://code4math.zulipchat.com/#narrow/channel/416460-general/topic/code4math.20.40.20JMM.202026/with/566219616">Zulip chat</a>
-  to connect with the community at
-  <a href="https://jointmathematicsmeetings.org/jmm">the 2026 Joint Mathematics Meetings</a>!
+  <strong><code>code4math</code> @ #JMM2027</strong>
+  More info coming soon!
 </p>
 
 <p class="notice">
