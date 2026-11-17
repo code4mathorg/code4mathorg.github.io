@@ -2,8 +2,7 @@
 layout: default
 ---
 
-`code4math` is an
-[AIM Research Community](https://aimath.org/programs/researchcommunities/)
+`code4math` is a community
 dedicated to the advancement of
 mathematical research through the development of high-quality
 sociotechnical infrastructure: software, databases, communities, and more.
@@ -11,7 +10,8 @@ sociotechnical infrastructure: software, databases, communities, and more.
 
 <p class="notice">
   <strong><code>code4math</code> @ #JMM2027</strong>
-  More info coming soon!
+  Social event Thu Jan 14 (time TBA) /
+  <a href="https://meetings.ams.org/math/jmm2027/meetingapp.cgi/Session/17808">Special session</a> Fri Jan 15
 </p>
 
 <p class="notice">
